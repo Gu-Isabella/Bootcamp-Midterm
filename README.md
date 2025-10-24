@@ -5,4 +5,4 @@ We wanted to see if there was a correlation between the interest rate and prices
 
 * INSERT CSV
 
-Data for item prices
+Data for item prices has been uploaded above. 
