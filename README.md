@@ -1,5 +1,7 @@
 # Bootcamp-Midterm
 NOTE: CSV data for this Colab has been linked above. Also, I have shared access to the Data Bootcamp Drive with Anusha and Professor Koehler.
+
+
 Intro: 
   Our overall goal was to see if 1) there was a relationship among the prices of eggs, milk, and bread, and 2) there was a relationship between the interest rates and the prices of these items. Our rationale was that these are common goods that American consumers regularly purchase, so we wanted to explore whether their prices were related to one another. Additionally, interest rates are usually a signal of the economy’s strength. Thus, we wanted to see if the prices of these commodities would change in conjunction with interest rates. As essential household consumables, these items typically exhibit inelastic demand; regardless of economic conditions or price changes, consumers are likely to continue purchasing them. 
 
